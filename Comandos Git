@@ -6,7 +6,7 @@ Para clonar um repositório, usa-se:
 git clone endereço/do/repositório.git
 
 Para enviar as alterações pro GitHub, usa-se os comandos:
-git add nomeDoArquivo
+git add NomeDoArquivo
 git commit -m "Mensagem do commit"
 git push origin main
 
